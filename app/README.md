@@ -10,6 +10,7 @@
 ### User Interface
 - **Activity Layout:** Design the user interface using the `activity_main.xml` file.
 - to navigate to it click on <a href="https://github.com/riyaz-panjwani/BIoSense-Androidapp/blob/b40990c5d30bc3930d7ecc511cde79db89c82605/app/src/main/res/layout/activity_main.xml">activity_main.xml</a>
+or <a href="app/src/main/res/layout/activity_main.xml">click here</a>
 
 ### Camera Access Configuration
 - **Android Manifest Modification:** Make necessary adjustments in the `AndroidManifest.xml` file to grant camera access.
