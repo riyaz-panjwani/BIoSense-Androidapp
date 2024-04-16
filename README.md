@@ -24,7 +24,7 @@ or <a href="src/main/res/layout/activity_main.xml">click here</a>
     - Opt for "TensorFlow Lite."
     - Browse and select your model file.
     - Click "Open" to successfully upload your machine learning model.
-
+- to navigate to it <a href="">click here</a>
 ## Application Workflow
 
 ### MainActivity Configuration
